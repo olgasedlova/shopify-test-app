@@ -1,0 +1,3 @@
+sjkddjfdjfjd
+
+{{$clientIP = \Request::ip(); }}
